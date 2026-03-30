@@ -1,0 +1,1 @@
+savedcmd_/home/user/kernel-vlab/vanilla-kernel/knr-lab/mem_check.mod := printf '%s\n'   mem_check.o | awk '!x[$$0]++ { print("/home/user/kernel-vlab/vanilla-kernel/knr-lab/"$$0) }' > /home/user/kernel-vlab/vanilla-kernel/knr-lab/mem_check.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/user/kernel-vlab/vanilla-kernel/knr-lab/mem_check.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/user/kernel-vlab/vanilla-kernel/knr-lab/mem_check.ko /home/user/kernel-vlab/vanilla-kernel/knr-lab/mem_check.o /home/user/kernel-vlab/vanilla-kernel/knr-lab/mem_check.mod.o

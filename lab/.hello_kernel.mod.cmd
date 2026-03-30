@@ -1,0 +1,1 @@
+savedcmd_/home/user/kernel-vlab/vanilla-kernel/knr-lab/hello_kernel.mod := printf '%s\n'   hello_kernel.o | awk '!x[$$0]++ { print("/home/user/kernel-vlab/vanilla-kernel/knr-lab/"$$0) }' > /home/user/kernel-vlab/vanilla-kernel/knr-lab/hello_kernel.mod

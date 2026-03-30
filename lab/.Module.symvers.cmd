@@ -1,0 +1,1 @@
+savedcmd_/home/user/kernel-vlab/vanilla-kernel/knr-lab/Module.symvers :=  scripts/mod/modpost -M        -o /home/user/kernel-vlab/vanilla-kernel/knr-lab/Module.symvers -T /home/user/kernel-vlab/vanilla-kernel/knr-lab/modules.order -i Module.symvers -e 

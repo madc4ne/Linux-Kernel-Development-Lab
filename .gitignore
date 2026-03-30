@@ -1,0 +1,8 @@
+# Ignore large source directories & build artifacts
+linux-6.8.12/
+busybox/
+
+# Ignore large compressed archives
+*.tar.gz
+*.tar.xz
+*.cpio.gz

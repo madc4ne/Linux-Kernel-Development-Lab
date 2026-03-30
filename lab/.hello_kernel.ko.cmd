@@ -1,0 +1,1 @@
+savedcmd_/home/user/kernel-vlab/vanilla-kernel/knr-lab/hello_kernel.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/user/kernel-vlab/vanilla-kernel/knr-lab/hello_kernel.ko /home/user/kernel-vlab/vanilla-kernel/knr-lab/hello_kernel.o /home/user/kernel-vlab/vanilla-kernel/knr-lab/hello_kernel.mod.o
